@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/27718680?v=4" width="150" alt="Foto de perfil de Yair Nava" />
+<img src=https://avatars.githubusercontent.com/u/332151312?s=400&u=fe4bd61373d6fcc3363106799bb2e3dc59671b71&v=4 width="150" alt="Foto de perfil de Roberto Zapién" />
 
 # 👋 Hola, soy Yair Nava
 
