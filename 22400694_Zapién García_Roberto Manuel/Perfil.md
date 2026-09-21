@@ -9,16 +9,13 @@
 
 ## 💻 Intereses
 - Inteligencia Artificial
-- Desarrollo Frontend
-- Desarrollo Backend
+- Seguridad Web
 - Desarrollo Movil
 
 ## 🛠 Tecnologías que conozco
 - Java, JavaScript, Python, Rust
 - MySQL, MongoDB
-- Angular, Next.js, Ionic
-- Git y GitHub
 
 ## 📫 Cómo contactarme
-- Correo: iryanavahe@ittepic.edu.mx
-- GitHub: [@yaairnaavaa](https://github.com/yaairnaavaa)
+- Correo: romazapienga@ittepic.edu.mx
+- GitHub: https://github.com/romazapienga-hash/PW-AD2026.git
