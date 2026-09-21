@@ -1,11 +1,11 @@
-<img src="https://avatars.githubusercontent.com/u/27718680?v=4" width="150" alt="Foto de perfil de Yair Nava" />
+<img src="https://avatars.githubusercontent.com/u/332151312?s=400&u=fe4bd61373d6fcc3363106799bb2e3dc59671b71&v=4" width="150" alt="Foto de perfil de Yair Nava" />
 
-# 👋 Hola, soy Yair Nava
+# 👋 Hola, soy Roberto Zapién
 
 ## 🎓 Información general
 - 📚 Carrera: Ingeniería en Sistemas Computacionales
 - 🏫 Escuela: Instituto Tecnológico de Tepic
-- 🆔 Número de Control: 14400975
+- 🆔 Número de Control: 22400694
 
 ## 💻 Intereses
 - Inteligencia Artificial
