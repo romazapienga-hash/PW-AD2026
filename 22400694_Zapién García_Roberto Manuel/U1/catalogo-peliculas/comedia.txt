@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Comedia.**
 
 1. Proyecto X: 2 de marzo de 2012.
@@ -6,3 +7,10 @@
 
 
 
+=======
+Películas de Comedia
+
+1. Superbad - 2007
+2. ¿Qué pasó ayer? - 2009
+3. Son como niños - 2010
+>>>>>>> comedia
